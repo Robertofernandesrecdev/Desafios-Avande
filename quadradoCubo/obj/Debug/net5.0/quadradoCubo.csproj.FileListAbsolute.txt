@@ -1,0 +1,16 @@
+D:\teste_raciocinio-dio\quadradoCubo\obj\Debug\net5.0\quadradoCubo.csprojAssemblyReference.cache
+D:\teste_raciocinio-dio\quadradoCubo\obj\Debug\net5.0\quadradoCubo.GeneratedMSBuildEditorConfig.editorconfig
+D:\teste_raciocinio-dio\quadradoCubo\obj\Debug\net5.0\quadradoCubo.AssemblyInfoInputs.cache
+D:\teste_raciocinio-dio\quadradoCubo\obj\Debug\net5.0\quadradoCubo.AssemblyInfo.cs
+D:\teste_raciocinio-dio\quadradoCubo\obj\Debug\net5.0\quadradoCubo.csproj.CoreCompileInputs.cache
+D:\teste_raciocinio-dio\quadradoCubo\bin\Debug\net5.0\quadradoCubo.exe
+D:\teste_raciocinio-dio\quadradoCubo\bin\Debug\net5.0\quadradoCubo.deps.json
+D:\teste_raciocinio-dio\quadradoCubo\bin\Debug\net5.0\quadradoCubo.runtimeconfig.json
+D:\teste_raciocinio-dio\quadradoCubo\bin\Debug\net5.0\quadradoCubo.runtimeconfig.dev.json
+D:\teste_raciocinio-dio\quadradoCubo\bin\Debug\net5.0\quadradoCubo.dll
+D:\teste_raciocinio-dio\quadradoCubo\bin\Debug\net5.0\ref\quadradoCubo.dll
+D:\teste_raciocinio-dio\quadradoCubo\bin\Debug\net5.0\quadradoCubo.pdb
+D:\teste_raciocinio-dio\quadradoCubo\obj\Debug\net5.0\quadradoCubo.dll
+D:\teste_raciocinio-dio\quadradoCubo\obj\Debug\net5.0\ref\quadradoCubo.dll
+D:\teste_raciocinio-dio\quadradoCubo\obj\Debug\net5.0\quadradoCubo.pdb
+D:\teste_raciocinio-dio\quadradoCubo\obj\Debug\net5.0\quadradoCubo.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\teste_raciocinio-dio\HoraCorrid\bin\Debug\net5.0\HoraCorrid.exe
+D:\teste_raciocinio-dio\HoraCorrid\bin\Debug\net5.0\HoraCorrid.deps.json
+D:\teste_raciocinio-dio\HoraCorrid\bin\Debug\net5.0\HoraCorrid.runtimeconfig.json
+D:\teste_raciocinio-dio\HoraCorrid\bin\Debug\net5.0\HoraCorrid.runtimeconfig.dev.json
+D:\teste_raciocinio-dio\HoraCorrid\bin\Debug\net5.0\HoraCorrid.dll
+D:\teste_raciocinio-dio\HoraCorrid\bin\Debug\net5.0\ref\HoraCorrid.dll
+D:\teste_raciocinio-dio\HoraCorrid\bin\Debug\net5.0\HoraCorrid.pdb
+D:\teste_raciocinio-dio\HoraCorrid\obj\Debug\net5.0\HoraCorrid.csprojAssemblyReference.cache
+D:\teste_raciocinio-dio\HoraCorrid\obj\Debug\net5.0\HoraCorrid.GeneratedMSBuildEditorConfig.editorconfig
+D:\teste_raciocinio-dio\HoraCorrid\obj\Debug\net5.0\HoraCorrid.AssemblyInfoInputs.cache
+D:\teste_raciocinio-dio\HoraCorrid\obj\Debug\net5.0\HoraCorrid.AssemblyInfo.cs
+D:\teste_raciocinio-dio\HoraCorrid\obj\Debug\net5.0\HoraCorrid.csproj.CoreCompileInputs.cache
+D:\teste_raciocinio-dio\HoraCorrid\obj\Debug\net5.0\HoraCorrid.dll
+D:\teste_raciocinio-dio\HoraCorrid\obj\Debug\net5.0\ref\HoraCorrid.dll
+D:\teste_raciocinio-dio\HoraCorrid\obj\Debug\net5.0\HoraCorrid.pdb
+D:\teste_raciocinio-dio\HoraCorrid\obj\Debug\net5.0\HoraCorrid.genruntimeconfig.cache

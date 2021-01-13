@@ -1,0 +1,16 @@
+D:\teste_raciocinio-dio\corridaTartarugas\bin\Debug\net5.0\corridaTartarugas.exe
+D:\teste_raciocinio-dio\corridaTartarugas\bin\Debug\net5.0\corridaTartarugas.deps.json
+D:\teste_raciocinio-dio\corridaTartarugas\bin\Debug\net5.0\corridaTartarugas.runtimeconfig.json
+D:\teste_raciocinio-dio\corridaTartarugas\bin\Debug\net5.0\corridaTartarugas.runtimeconfig.dev.json
+D:\teste_raciocinio-dio\corridaTartarugas\bin\Debug\net5.0\corridaTartarugas.dll
+D:\teste_raciocinio-dio\corridaTartarugas\bin\Debug\net5.0\ref\corridaTartarugas.dll
+D:\teste_raciocinio-dio\corridaTartarugas\bin\Debug\net5.0\corridaTartarugas.pdb
+D:\teste_raciocinio-dio\corridaTartarugas\obj\Debug\net5.0\corridaTartarugas.csprojAssemblyReference.cache
+D:\teste_raciocinio-dio\corridaTartarugas\obj\Debug\net5.0\corridaTartarugas.GeneratedMSBuildEditorConfig.editorconfig
+D:\teste_raciocinio-dio\corridaTartarugas\obj\Debug\net5.0\corridaTartarugas.AssemblyInfoInputs.cache
+D:\teste_raciocinio-dio\corridaTartarugas\obj\Debug\net5.0\corridaTartarugas.AssemblyInfo.cs
+D:\teste_raciocinio-dio\corridaTartarugas\obj\Debug\net5.0\corridaTartarugas.csproj.CoreCompileInputs.cache
+D:\teste_raciocinio-dio\corridaTartarugas\obj\Debug\net5.0\corridaTartarugas.dll
+D:\teste_raciocinio-dio\corridaTartarugas\obj\Debug\net5.0\ref\corridaTartarugas.dll
+D:\teste_raciocinio-dio\corridaTartarugas\obj\Debug\net5.0\corridaTartarugas.pdb
+D:\teste_raciocinio-dio\corridaTartarugas\obj\Debug\net5.0\corridaTartarugas.genruntimeconfig.cache

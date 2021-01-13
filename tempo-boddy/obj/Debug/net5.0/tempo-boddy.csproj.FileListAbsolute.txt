@@ -1,0 +1,16 @@
+D:\teste_raciocinio-dio\tempo-boddy\bin\Debug\net5.0\tempo-boddy.exe
+D:\teste_raciocinio-dio\tempo-boddy\bin\Debug\net5.0\tempo-boddy.deps.json
+D:\teste_raciocinio-dio\tempo-boddy\bin\Debug\net5.0\tempo-boddy.runtimeconfig.json
+D:\teste_raciocinio-dio\tempo-boddy\bin\Debug\net5.0\tempo-boddy.runtimeconfig.dev.json
+D:\teste_raciocinio-dio\tempo-boddy\bin\Debug\net5.0\tempo-boddy.dll
+D:\teste_raciocinio-dio\tempo-boddy\bin\Debug\net5.0\ref\tempo-boddy.dll
+D:\teste_raciocinio-dio\tempo-boddy\bin\Debug\net5.0\tempo-boddy.pdb
+D:\teste_raciocinio-dio\tempo-boddy\obj\Debug\net5.0\tempo-boddy.csprojAssemblyReference.cache
+D:\teste_raciocinio-dio\tempo-boddy\obj\Debug\net5.0\tempo-boddy.GeneratedMSBuildEditorConfig.editorconfig
+D:\teste_raciocinio-dio\tempo-boddy\obj\Debug\net5.0\tempo-boddy.AssemblyInfoInputs.cache
+D:\teste_raciocinio-dio\tempo-boddy\obj\Debug\net5.0\tempo-boddy.AssemblyInfo.cs
+D:\teste_raciocinio-dio\tempo-boddy\obj\Debug\net5.0\tempo-boddy.csproj.CoreCompileInputs.cache
+D:\teste_raciocinio-dio\tempo-boddy\obj\Debug\net5.0\tempo-boddy.dll
+D:\teste_raciocinio-dio\tempo-boddy\obj\Debug\net5.0\ref\tempo-boddy.dll
+D:\teste_raciocinio-dio\tempo-boddy\obj\Debug\net5.0\tempo-boddy.pdb
+D:\teste_raciocinio-dio\tempo-boddy\obj\Debug\net5.0\tempo-boddy.genruntimeconfig.cache

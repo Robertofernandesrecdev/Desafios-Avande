@@ -1,0 +1,16 @@
+D:\teste_raciocinio-dio\Distancia\Distancia\bin\Debug\net5.0\Distancia.exe
+D:\teste_raciocinio-dio\Distancia\Distancia\bin\Debug\net5.0\Distancia.deps.json
+D:\teste_raciocinio-dio\Distancia\Distancia\bin\Debug\net5.0\Distancia.runtimeconfig.json
+D:\teste_raciocinio-dio\Distancia\Distancia\bin\Debug\net5.0\Distancia.runtimeconfig.dev.json
+D:\teste_raciocinio-dio\Distancia\Distancia\bin\Debug\net5.0\Distancia.dll
+D:\teste_raciocinio-dio\Distancia\Distancia\bin\Debug\net5.0\ref\Distancia.dll
+D:\teste_raciocinio-dio\Distancia\Distancia\bin\Debug\net5.0\Distancia.pdb
+D:\teste_raciocinio-dio\Distancia\Distancia\obj\Debug\net5.0\Distancia.csprojAssemblyReference.cache
+D:\teste_raciocinio-dio\Distancia\Distancia\obj\Debug\net5.0\Distancia.GeneratedMSBuildEditorConfig.editorconfig
+D:\teste_raciocinio-dio\Distancia\Distancia\obj\Debug\net5.0\Distancia.AssemblyInfoInputs.cache
+D:\teste_raciocinio-dio\Distancia\Distancia\obj\Debug\net5.0\Distancia.AssemblyInfo.cs
+D:\teste_raciocinio-dio\Distancia\Distancia\obj\Debug\net5.0\Distancia.csproj.CoreCompileInputs.cache
+D:\teste_raciocinio-dio\Distancia\Distancia\obj\Debug\net5.0\Distancia.dll
+D:\teste_raciocinio-dio\Distancia\Distancia\obj\Debug\net5.0\ref\Distancia.dll
+D:\teste_raciocinio-dio\Distancia\Distancia\obj\Debug\net5.0\Distancia.pdb
+D:\teste_raciocinio-dio\Distancia\Distancia\obj\Debug\net5.0\Distancia.genruntimeconfig.cache

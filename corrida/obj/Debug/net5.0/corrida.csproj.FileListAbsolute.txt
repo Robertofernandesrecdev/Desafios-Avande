@@ -1,0 +1,16 @@
+D:\teste_raciocinio-dio\corrida\bin\Debug\net5.0\corrida.exe
+D:\teste_raciocinio-dio\corrida\bin\Debug\net5.0\corrida.deps.json
+D:\teste_raciocinio-dio\corrida\bin\Debug\net5.0\corrida.runtimeconfig.json
+D:\teste_raciocinio-dio\corrida\bin\Debug\net5.0\corrida.runtimeconfig.dev.json
+D:\teste_raciocinio-dio\corrida\bin\Debug\net5.0\corrida.dll
+D:\teste_raciocinio-dio\corrida\bin\Debug\net5.0\ref\corrida.dll
+D:\teste_raciocinio-dio\corrida\bin\Debug\net5.0\corrida.pdb
+D:\teste_raciocinio-dio\corrida\obj\Debug\net5.0\corrida.csprojAssemblyReference.cache
+D:\teste_raciocinio-dio\corrida\obj\Debug\net5.0\corrida.GeneratedMSBuildEditorConfig.editorconfig
+D:\teste_raciocinio-dio\corrida\obj\Debug\net5.0\corrida.AssemblyInfoInputs.cache
+D:\teste_raciocinio-dio\corrida\obj\Debug\net5.0\corrida.AssemblyInfo.cs
+D:\teste_raciocinio-dio\corrida\obj\Debug\net5.0\corrida.csproj.CoreCompileInputs.cache
+D:\teste_raciocinio-dio\corrida\obj\Debug\net5.0\corrida.dll
+D:\teste_raciocinio-dio\corrida\obj\Debug\net5.0\ref\corrida.dll
+D:\teste_raciocinio-dio\corrida\obj\Debug\net5.0\corrida.pdb
+D:\teste_raciocinio-dio\corrida\obj\Debug\net5.0\corrida.genruntimeconfig.cache

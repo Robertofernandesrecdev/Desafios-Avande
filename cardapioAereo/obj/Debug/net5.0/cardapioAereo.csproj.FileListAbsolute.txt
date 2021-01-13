@@ -1,0 +1,16 @@
+D:\teste_raciocinio-dio\cardapioAereo\bin\Debug\net5.0\cardapioAereo.exe
+D:\teste_raciocinio-dio\cardapioAereo\bin\Debug\net5.0\cardapioAereo.deps.json
+D:\teste_raciocinio-dio\cardapioAereo\bin\Debug\net5.0\cardapioAereo.runtimeconfig.json
+D:\teste_raciocinio-dio\cardapioAereo\bin\Debug\net5.0\cardapioAereo.runtimeconfig.dev.json
+D:\teste_raciocinio-dio\cardapioAereo\bin\Debug\net5.0\cardapioAereo.dll
+D:\teste_raciocinio-dio\cardapioAereo\bin\Debug\net5.0\ref\cardapioAereo.dll
+D:\teste_raciocinio-dio\cardapioAereo\bin\Debug\net5.0\cardapioAereo.pdb
+D:\teste_raciocinio-dio\cardapioAereo\obj\Debug\net5.0\cardapioAereo.csprojAssemblyReference.cache
+D:\teste_raciocinio-dio\cardapioAereo\obj\Debug\net5.0\cardapioAereo.GeneratedMSBuildEditorConfig.editorconfig
+D:\teste_raciocinio-dio\cardapioAereo\obj\Debug\net5.0\cardapioAereo.AssemblyInfoInputs.cache
+D:\teste_raciocinio-dio\cardapioAereo\obj\Debug\net5.0\cardapioAereo.AssemblyInfo.cs
+D:\teste_raciocinio-dio\cardapioAereo\obj\Debug\net5.0\cardapioAereo.csproj.CoreCompileInputs.cache
+D:\teste_raciocinio-dio\cardapioAereo\obj\Debug\net5.0\cardapioAereo.dll
+D:\teste_raciocinio-dio\cardapioAereo\obj\Debug\net5.0\ref\cardapioAereo.dll
+D:\teste_raciocinio-dio\cardapioAereo\obj\Debug\net5.0\cardapioAereo.pdb
+D:\teste_raciocinio-dio\cardapioAereo\obj\Debug\net5.0\cardapioAereo.genruntimeconfig.cache

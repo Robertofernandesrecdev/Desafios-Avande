@@ -1,0 +1,16 @@
+D:\teste_raciocinio-dio\idade-dias\obj\Debug\net5.0\idade-dias.csprojAssemblyReference.cache
+D:\teste_raciocinio-dio\idade-dias\obj\Debug\net5.0\idade-dias.GeneratedMSBuildEditorConfig.editorconfig
+D:\teste_raciocinio-dio\idade-dias\obj\Debug\net5.0\idade-dias.AssemblyInfoInputs.cache
+D:\teste_raciocinio-dio\idade-dias\obj\Debug\net5.0\idade-dias.AssemblyInfo.cs
+D:\teste_raciocinio-dio\idade-dias\obj\Debug\net5.0\idade-dias.csproj.CoreCompileInputs.cache
+D:\teste_raciocinio-dio\idade-dias\bin\Debug\net5.0\idade-dias.exe
+D:\teste_raciocinio-dio\idade-dias\bin\Debug\net5.0\idade-dias.deps.json
+D:\teste_raciocinio-dio\idade-dias\bin\Debug\net5.0\idade-dias.runtimeconfig.json
+D:\teste_raciocinio-dio\idade-dias\bin\Debug\net5.0\idade-dias.runtimeconfig.dev.json
+D:\teste_raciocinio-dio\idade-dias\bin\Debug\net5.0\idade-dias.dll
+D:\teste_raciocinio-dio\idade-dias\bin\Debug\net5.0\ref\idade-dias.dll
+D:\teste_raciocinio-dio\idade-dias\bin\Debug\net5.0\idade-dias.pdb
+D:\teste_raciocinio-dio\idade-dias\obj\Debug\net5.0\idade-dias.dll
+D:\teste_raciocinio-dio\idade-dias\obj\Debug\net5.0\ref\idade-dias.dll
+D:\teste_raciocinio-dio\idade-dias\obj\Debug\net5.0\idade-dias.pdb
+D:\teste_raciocinio-dio\idade-dias\obj\Debug\net5.0\idade-dias.genruntimeconfig.cache

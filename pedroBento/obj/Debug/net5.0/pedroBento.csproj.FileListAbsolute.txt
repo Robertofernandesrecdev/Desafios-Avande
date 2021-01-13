@@ -1,0 +1,16 @@
+D:\teste_raciocinio-dio\pedroBento\bin\Debug\net5.0\pedroBento.exe
+D:\teste_raciocinio-dio\pedroBento\bin\Debug\net5.0\pedroBento.deps.json
+D:\teste_raciocinio-dio\pedroBento\bin\Debug\net5.0\pedroBento.runtimeconfig.json
+D:\teste_raciocinio-dio\pedroBento\bin\Debug\net5.0\pedroBento.runtimeconfig.dev.json
+D:\teste_raciocinio-dio\pedroBento\bin\Debug\net5.0\pedroBento.dll
+D:\teste_raciocinio-dio\pedroBento\bin\Debug\net5.0\ref\pedroBento.dll
+D:\teste_raciocinio-dio\pedroBento\bin\Debug\net5.0\pedroBento.pdb
+D:\teste_raciocinio-dio\pedroBento\obj\Debug\net5.0\pedroBento.csprojAssemblyReference.cache
+D:\teste_raciocinio-dio\pedroBento\obj\Debug\net5.0\pedroBento.GeneratedMSBuildEditorConfig.editorconfig
+D:\teste_raciocinio-dio\pedroBento\obj\Debug\net5.0\pedroBento.AssemblyInfoInputs.cache
+D:\teste_raciocinio-dio\pedroBento\obj\Debug\net5.0\pedroBento.AssemblyInfo.cs
+D:\teste_raciocinio-dio\pedroBento\obj\Debug\net5.0\pedroBento.csproj.CoreCompileInputs.cache
+D:\teste_raciocinio-dio\pedroBento\obj\Debug\net5.0\pedroBento.dll
+D:\teste_raciocinio-dio\pedroBento\obj\Debug\net5.0\ref\pedroBento.dll
+D:\teste_raciocinio-dio\pedroBento\obj\Debug\net5.0\pedroBento.pdb
+D:\teste_raciocinio-dio\pedroBento\obj\Debug\net5.0\pedroBento.genruntimeconfig.cache

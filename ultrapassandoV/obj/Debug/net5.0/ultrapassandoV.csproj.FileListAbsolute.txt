@@ -1,0 +1,16 @@
+D:\teste_raciocinio-dio\ultrapassandoV\bin\Debug\net5.0\ultrapassandoV.exe
+D:\teste_raciocinio-dio\ultrapassandoV\bin\Debug\net5.0\ultrapassandoV.deps.json
+D:\teste_raciocinio-dio\ultrapassandoV\bin\Debug\net5.0\ultrapassandoV.runtimeconfig.json
+D:\teste_raciocinio-dio\ultrapassandoV\bin\Debug\net5.0\ultrapassandoV.runtimeconfig.dev.json
+D:\teste_raciocinio-dio\ultrapassandoV\bin\Debug\net5.0\ultrapassandoV.dll
+D:\teste_raciocinio-dio\ultrapassandoV\bin\Debug\net5.0\ref\ultrapassandoV.dll
+D:\teste_raciocinio-dio\ultrapassandoV\bin\Debug\net5.0\ultrapassandoV.pdb
+D:\teste_raciocinio-dio\ultrapassandoV\obj\Debug\net5.0\ultrapassandoV.csprojAssemblyReference.cache
+D:\teste_raciocinio-dio\ultrapassandoV\obj\Debug\net5.0\ultrapassandoV.GeneratedMSBuildEditorConfig.editorconfig
+D:\teste_raciocinio-dio\ultrapassandoV\obj\Debug\net5.0\ultrapassandoV.AssemblyInfoInputs.cache
+D:\teste_raciocinio-dio\ultrapassandoV\obj\Debug\net5.0\ultrapassandoV.AssemblyInfo.cs
+D:\teste_raciocinio-dio\ultrapassandoV\obj\Debug\net5.0\ultrapassandoV.csproj.CoreCompileInputs.cache
+D:\teste_raciocinio-dio\ultrapassandoV\obj\Debug\net5.0\ultrapassandoV.dll
+D:\teste_raciocinio-dio\ultrapassandoV\obj\Debug\net5.0\ref\ultrapassandoV.dll
+D:\teste_raciocinio-dio\ultrapassandoV\obj\Debug\net5.0\ultrapassandoV.pdb
+D:\teste_raciocinio-dio\ultrapassandoV\obj\Debug\net5.0\ultrapassandoV.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\teste_raciocinio-dio\conversao-tempo\bin\Debug\net5.0\conversao-tempo.exe
+D:\teste_raciocinio-dio\conversao-tempo\bin\Debug\net5.0\conversao-tempo.deps.json
+D:\teste_raciocinio-dio\conversao-tempo\bin\Debug\net5.0\conversao-tempo.runtimeconfig.json
+D:\teste_raciocinio-dio\conversao-tempo\bin\Debug\net5.0\conversao-tempo.runtimeconfig.dev.json
+D:\teste_raciocinio-dio\conversao-tempo\bin\Debug\net5.0\conversao-tempo.dll
+D:\teste_raciocinio-dio\conversao-tempo\bin\Debug\net5.0\ref\conversao-tempo.dll
+D:\teste_raciocinio-dio\conversao-tempo\bin\Debug\net5.0\conversao-tempo.pdb
+D:\teste_raciocinio-dio\conversao-tempo\obj\Debug\net5.0\conversao-tempo.csprojAssemblyReference.cache
+D:\teste_raciocinio-dio\conversao-tempo\obj\Debug\net5.0\conversao-tempo.GeneratedMSBuildEditorConfig.editorconfig
+D:\teste_raciocinio-dio\conversao-tempo\obj\Debug\net5.0\conversao-tempo.AssemblyInfoInputs.cache
+D:\teste_raciocinio-dio\conversao-tempo\obj\Debug\net5.0\conversao-tempo.AssemblyInfo.cs
+D:\teste_raciocinio-dio\conversao-tempo\obj\Debug\net5.0\conversao-tempo.csproj.CoreCompileInputs.cache
+D:\teste_raciocinio-dio\conversao-tempo\obj\Debug\net5.0\conversao-tempo.dll
+D:\teste_raciocinio-dio\conversao-tempo\obj\Debug\net5.0\ref\conversao-tempo.dll
+D:\teste_raciocinio-dio\conversao-tempo\obj\Debug\net5.0\conversao-tempo.pdb
+D:\teste_raciocinio-dio\conversao-tempo\obj\Debug\net5.0\conversao-tempo.genruntimeconfig.cache

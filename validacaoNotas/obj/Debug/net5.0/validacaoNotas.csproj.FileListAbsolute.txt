@@ -1,0 +1,16 @@
+D:\teste_raciocinio-dio\validacaoNotas\bin\Debug\net5.0\validacaoNotas.exe
+D:\teste_raciocinio-dio\validacaoNotas\bin\Debug\net5.0\validacaoNotas.deps.json
+D:\teste_raciocinio-dio\validacaoNotas\bin\Debug\net5.0\validacaoNotas.runtimeconfig.json
+D:\teste_raciocinio-dio\validacaoNotas\bin\Debug\net5.0\validacaoNotas.runtimeconfig.dev.json
+D:\teste_raciocinio-dio\validacaoNotas\bin\Debug\net5.0\validacaoNotas.dll
+D:\teste_raciocinio-dio\validacaoNotas\bin\Debug\net5.0\ref\validacaoNotas.dll
+D:\teste_raciocinio-dio\validacaoNotas\bin\Debug\net5.0\validacaoNotas.pdb
+D:\teste_raciocinio-dio\validacaoNotas\obj\Debug\net5.0\validacaoNotas.csprojAssemblyReference.cache
+D:\teste_raciocinio-dio\validacaoNotas\obj\Debug\net5.0\validacaoNotas.GeneratedMSBuildEditorConfig.editorconfig
+D:\teste_raciocinio-dio\validacaoNotas\obj\Debug\net5.0\validacaoNotas.AssemblyInfoInputs.cache
+D:\teste_raciocinio-dio\validacaoNotas\obj\Debug\net5.0\validacaoNotas.AssemblyInfo.cs
+D:\teste_raciocinio-dio\validacaoNotas\obj\Debug\net5.0\validacaoNotas.csproj.CoreCompileInputs.cache
+D:\teste_raciocinio-dio\validacaoNotas\obj\Debug\net5.0\validacaoNotas.dll
+D:\teste_raciocinio-dio\validacaoNotas\obj\Debug\net5.0\ref\validacaoNotas.dll
+D:\teste_raciocinio-dio\validacaoNotas\obj\Debug\net5.0\validacaoNotas.pdb
+D:\teste_raciocinio-dio\validacaoNotas\obj\Debug\net5.0\validacaoNotas.genruntimeconfig.cache

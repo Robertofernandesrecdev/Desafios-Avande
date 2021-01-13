@@ -1,0 +1,16 @@
+D:\teste_raciocinio-dio\primeiro\bin\Debug\net5.0\primeiro.exe
+D:\teste_raciocinio-dio\primeiro\bin\Debug\net5.0\primeiro.deps.json
+D:\teste_raciocinio-dio\primeiro\bin\Debug\net5.0\primeiro.runtimeconfig.json
+D:\teste_raciocinio-dio\primeiro\bin\Debug\net5.0\primeiro.runtimeconfig.dev.json
+D:\teste_raciocinio-dio\primeiro\bin\Debug\net5.0\primeiro.dll
+D:\teste_raciocinio-dio\primeiro\bin\Debug\net5.0\ref\primeiro.dll
+D:\teste_raciocinio-dio\primeiro\bin\Debug\net5.0\primeiro.pdb
+D:\teste_raciocinio-dio\primeiro\obj\Debug\net5.0\primeiro.csprojAssemblyReference.cache
+D:\teste_raciocinio-dio\primeiro\obj\Debug\net5.0\primeiro.GeneratedMSBuildEditorConfig.editorconfig
+D:\teste_raciocinio-dio\primeiro\obj\Debug\net5.0\primeiro.AssemblyInfoInputs.cache
+D:\teste_raciocinio-dio\primeiro\obj\Debug\net5.0\primeiro.AssemblyInfo.cs
+D:\teste_raciocinio-dio\primeiro\obj\Debug\net5.0\primeiro.csproj.CoreCompileInputs.cache
+D:\teste_raciocinio-dio\primeiro\obj\Debug\net5.0\primeiro.dll
+D:\teste_raciocinio-dio\primeiro\obj\Debug\net5.0\ref\primeiro.dll
+D:\teste_raciocinio-dio\primeiro\obj\Debug\net5.0\primeiro.pdb
+D:\teste_raciocinio-dio\primeiro\obj\Debug\net5.0\primeiro.genruntimeconfig.cache

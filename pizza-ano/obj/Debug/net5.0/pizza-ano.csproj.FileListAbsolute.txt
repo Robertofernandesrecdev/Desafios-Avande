@@ -1,0 +1,16 @@
+D:\teste_raciocinio-dio\pizza-ano\bin\Debug\net5.0\pizza-ano.exe
+D:\teste_raciocinio-dio\pizza-ano\bin\Debug\net5.0\pizza-ano.deps.json
+D:\teste_raciocinio-dio\pizza-ano\bin\Debug\net5.0\pizza-ano.runtimeconfig.json
+D:\teste_raciocinio-dio\pizza-ano\bin\Debug\net5.0\pizza-ano.runtimeconfig.dev.json
+D:\teste_raciocinio-dio\pizza-ano\bin\Debug\net5.0\pizza-ano.dll
+D:\teste_raciocinio-dio\pizza-ano\bin\Debug\net5.0\ref\pizza-ano.dll
+D:\teste_raciocinio-dio\pizza-ano\bin\Debug\net5.0\pizza-ano.pdb
+D:\teste_raciocinio-dio\pizza-ano\obj\Debug\net5.0\pizza-ano.csprojAssemblyReference.cache
+D:\teste_raciocinio-dio\pizza-ano\obj\Debug\net5.0\pizza-ano.GeneratedMSBuildEditorConfig.editorconfig
+D:\teste_raciocinio-dio\pizza-ano\obj\Debug\net5.0\pizza-ano.AssemblyInfoInputs.cache
+D:\teste_raciocinio-dio\pizza-ano\obj\Debug\net5.0\pizza-ano.AssemblyInfo.cs
+D:\teste_raciocinio-dio\pizza-ano\obj\Debug\net5.0\pizza-ano.csproj.CoreCompileInputs.cache
+D:\teste_raciocinio-dio\pizza-ano\obj\Debug\net5.0\pizza-ano.dll
+D:\teste_raciocinio-dio\pizza-ano\obj\Debug\net5.0\ref\pizza-ano.dll
+D:\teste_raciocinio-dio\pizza-ano\obj\Debug\net5.0\pizza-ano.pdb
+D:\teste_raciocinio-dio\pizza-ano\obj\Debug\net5.0\pizza-ano.genruntimeconfig.cache
